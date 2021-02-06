@@ -21,10 +21,10 @@ Creating an automatic answer checker web application for students and teachers, 
 - After evaluation the evaluator/professor can verify the marks and can also overwrite the marks awarded by the system.  
   
 ### Tech Stack  
-1) Web application will be deployed using Django  
-2) Image and Language processing will be done using Python Deep Learning APIs  
-3) Database to use -> {to be decided}  
-4) Frontend application and designing -> {to be decided}  
+1. Web application will be deployed using Django  
+2. Image and Language processing will be done using Python Deep Learning APIs  
+3. Database to use - [to be decided]  
+4. Frontend application and designing - [to be decided]  
 
-Further things to be added ...
-<br/><br/><br/>
+Further things to be added.
+<br/>
