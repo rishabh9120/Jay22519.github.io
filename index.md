@@ -1,42 +1,30 @@
 ## Website for SoftLab project 
 ### Team - 
-<br>
-1) Jay Puri Goswami [BT18CSE073]<br>
-2) Rishabh Agarwal [BT18CSE054] <br>
-3) Rishikesh Rachchh [BT18CSE091] <br>
-4) Harshal Sable [BT18CSE075] <br>
-5) Anurag Baral [BT18CSE077] <br>
-6) Prince Sharma  [BT18CSE147] <br>
-7) Ashish Lakra [BT18CSE038]  <br>
+
+| S. no | Name | Enrollment no   |
+| ----- | ---- | --------------- |
+| 1 | Jay Puri Goswami  | [BT18CSE073]  |
+| 2 | Rishabh Agarwal   | [BT18CSE054]  |
+| 3 | Rishikesh Rachchh | [BT18CSE091]  |
+| 4 | Harshal Sable     | [BT18CSE075]  |
+| 5 | Anurag Baral      | [BT18CSE077]  |
+| 6 | Prince Sharma     | [BT18CSE147]  |
+| 7 | Ashish Lakra      | [BT18CSE038]  |
 
 
 ## Problem Statement 
+Creating an automatic answer checker web application for students and teachers, for grading of the answers submitted by students against an ideal solution uploaded by the teacher. 
 
-Creating a web application for automatic answer checking 
-<br>
-<br>
-### Rough outline 
+### Rough outline  
+- Students upload their hand-written answer sheets which will be converted to text.
+- The solution provided by the students will be automatically marked against the ideal/correct answer given by the evaluator/professor, using AI to check similarity of the two answers 
+- After evaluation the evaluator/professor can verify the marks and can also overwrite the marks awarded by the system.  
+  
+### Tech Stack  
+1) Web application will be deployed using Django  
+2) Image and Language processing will be done using Python Deep Learning APIs  
+3) Database to use -> {to be decided}  
+4) Frontend application and designing -> {to be decided}  
 
-Students can upload their hand written answer sheets which will be converted to text and will be automatically marked against the ideal/correct answer given by the evaluator/professor. After evaluation the evaluator/professor can verify the marks and can also overwrite the awarded marks  
-<br>
-<br>
-
-### Tech Stack 
-1) Web application will be deployed using Django  <br>
-2) Image and Language processing will be done using Python DL APIs <br>
-3) Database to use -> {To be decided}  <br>
-4) Fronted application and designing -> {To be decided}  <br>
-<br><br>
-Further things to be added ..................
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-You can use the [editor on GitHub](https://github.com/Jay22519/Jay22519.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Further things to be added ...
+<br/><br/><br/>
