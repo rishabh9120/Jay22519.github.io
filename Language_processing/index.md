@@ -10,8 +10,8 @@
 
 
 #### Our project of Automatic Answer checking is divided into 2 modules -> 
-###### 1) Converting given input image file into text file 
-###### 2) Using the text file generated to find how correcrt the given answer is 
+##### 1) Converting given input image file into text file 
+##### 2) Using the text file generated to find how correcrt the given answer is 
 
 
 <b> This page deals with the second module . The crux of it is to use natural language processing to find document similarities . </b>
@@ -47,7 +47,7 @@ Here is the link for sample jupyter notebook code to show how bert works  <b> Ye
 #### Google's Universal Sentence Encoder (USE) 
 <b> This is to yet to be updated </b>
 
-###### Further problems to solve 
+#### Further problems to solve 
 <ol type="1">
   <li>How to overcome document length constraint in BERT</li>
   <li>Find better tokenizer for Bert</li>
