@@ -26,9 +26,9 @@ Creating an automatic answer checker web application for students and teachers, 
 3. Database to use - [to be decided]  
 4. Frontend application and designing - [to be decided]  
 
-##### Link for Language Processing page is ->  <a href = 'https://jay22519.github.io/Language_processing/'>Language Processing Module</a> 
+##### Link for Language Processing page is  <a href = 'https://jay22519.github.io/Language_processing/'>Language Processing Module</a> 
 
-##### Link for Image Processing page is -> 
+##### Link for Image Processing page is 
 
 Further things to be added.
 <br>
