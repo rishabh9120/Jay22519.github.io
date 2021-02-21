@@ -62,5 +62,6 @@ Here is the link for sample jupyter notebook code to show how bert works  <b> Ye
 
 
 
-[1] ->https://towardsdatascience.com/word-movers-distance-for-text-similarity-7492aeca71b0#:~:text=Word%20Mover's%20Distance%20targets%20both,embedded%20words%20of%20another%20document.
+[1] ->https://towardsdatascience.com/word-movers-distance-for-text-similarity-7492aeca71b0#:~:text=Word%20Mover's%20Distance%20targets%20both,embedded%20words%20of%20another%20document. 
+<br>
 [2] -> https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
