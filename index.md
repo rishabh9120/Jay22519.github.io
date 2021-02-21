@@ -11,6 +11,11 @@
 | 6 | Prince Sharma     | [BT18CSE147]  |
 | 7 | Ashish Lakra      | [BT18CSE038]  |
 
+### Weekly Update  
+
+#### Update for Week [15<sup>th</sup> Feb - 21<sup>th</sup> Feb]
+Algorithms and Model to use for Language Processing had been added . Link is <a href = 'https://jay22519.github.io/Language_processing/'>Language Processing Module</a> 
+
 
 ## Problem Statement 
 Creating an automatic answer checker web application for students and teachers, for grading of the answers submitted by students against an ideal solution uploaded by the teacher. 
