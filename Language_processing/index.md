@@ -16,7 +16,7 @@
 
 <b> This page deals with the second module . The crux of it is to use natural language processing to find document similarities . </b>
 
-Document similairty has many aspects . Other than capturing the syntactic similarity we also have to capture the semantic similarity and context and understand that whether 
+Document similarity has many aspects . Other than capturing the syntactic similarity we also have to capture the semantic similarity and context and understand that whether 
 2 given texts (though entirely differnet in words) are same or not . 
 
 So we are using the following methods to capture semantic , syntactic and contextual meaning of the texts/documents 
