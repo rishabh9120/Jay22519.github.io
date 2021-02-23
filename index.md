@@ -33,7 +33,7 @@ Creating an automatic answer checker web application for students and teachers, 
 
 ##### Link for Language Processing page is  <a href = 'https://jay22519.github.io/Language_processing/'>Language Processing Module</a> 
 
-##### Link for Image Processing page is <a href = 'https://jay22519.github.io/Image_processing/'>Language Processing Module</a> 
+##### Link for Image Processing page is <a href = 'https://jay22519.github.io/Image_processing/'>Image Processing Module</a> 
 
 Further things to be added.
 <br>
